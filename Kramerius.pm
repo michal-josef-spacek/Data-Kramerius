@@ -7,7 +7,7 @@ use Data::Kramerius::Object;
 use Text::DSV;
 use Unicode::UTF8 qw(decode_utf8);
 
-our $VERSION = 0.01;
+our $VERSION = 0.02;
 
 # Constructor.
 sub new {
@@ -160,7 +160,7 @@ BSD 2-Clause License
 
 =head1 VERSION
 
-0.01
+0.02
 
 =cut
 
