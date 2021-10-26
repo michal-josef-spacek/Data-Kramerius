@@ -16,6 +16,7 @@ author_requires 'Test::Pod::Coverage' => 0;
 license 'bsd';
 name 'Data-Kramerius';
 perl_version 5.006;
+readme_from 'Kramerius.pm';
 recursive_author_tests('xt');
 requires 'Mo' => 0;
 requires 'Text::DSV' => 0;
