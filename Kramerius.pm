@@ -196,7 +196,7 @@ version:code:name:url
 4:zcm:Knihovna Západočeského muzea v Plzni:http\://kramerius.zcm.cz/
 4:cbvk:Jihočeská vědecká knihovna v Českých Budějovicích:http\://kramerius.cbvk.cz/
 4:kfbz:Krajská knihovna Františka Bartoše ve Zlíně:http\://dlib.kfbz.cz/
-4:nkp:Národní knihovna:http\://kramerius4.nkp.cz/
+4:nkp:Národní knihovna:http\://kramerius5.nkp.cz/
 4:cuni_fsv:Univerzita Karlova v Praze - Fakulta sociálních věd:http\://kramerius.fsv.cuni.cz/
 4:ntk:Národní technická knihovna:http\://kramerius.techlib.cz/
 4:svkkl:Středočeská vědecká knihovna v Kladně:http\://kramerius.svkkl.cz/
