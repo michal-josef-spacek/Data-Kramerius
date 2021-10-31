@@ -27,6 +27,7 @@ t/Data-Kramerius/01-use.t
 t/Data-Kramerius/02-version.t
 t/Data-Kramerius/03-new.t
 t/Data-Kramerius/04-get.t
+t/Data-Kramerius/05-list.t
 xt/Data-Kramerius-Object/01-pod_coverage.t
 xt/Data-Kramerius-Object/02-pod.t
 xt/Data-Kramerius/01-pod_coverage.t
