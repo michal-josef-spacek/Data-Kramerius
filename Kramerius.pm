@@ -212,3 +212,4 @@ version:code:name:url
 4:kkvhb:Krajská knihovna Vysočiny v Havlíčkově Brodě:http\://kramerius.kkvysociny.cz/
 4:cdk:Česká Digitální knihovna:http\://cdk.lib.cas.cz/
 4:nmzv:Národní muzeum - Zvuk:http\://kramerius.nm.cz/
+4:npmk:Národní pedagogické muzeum J. A. Komenského:https\://kramerius.npmk.cz/
