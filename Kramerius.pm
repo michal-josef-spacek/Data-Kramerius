@@ -214,3 +214,4 @@ version:code:name:url
 4:nmzv:Národní muzeum - Zvuk:http\://kramerius.nm.cz/
 4:npmk:Národní pedagogické muzeum J. A. Komenského:https\://kramerius.npmk.cz/
 4:nulk:Národní ústav lidové kultury:https\://kramerius.nulk.cz/
+4:hmt:Husitské muzeum v Táboře:http\://kramerius.husitskemuzeum.cz/
