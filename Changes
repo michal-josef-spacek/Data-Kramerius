@@ -1,4 +1,5 @@
 0.05
+ - Fix ABA001 Kramerius (http -> https).
 
 0.04 2021-11-20T13:01:20+01:00
  - Add hmt Kramerius.

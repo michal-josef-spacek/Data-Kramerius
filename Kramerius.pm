@@ -166,7 +166,7 @@ BSD 2-Clause License
 
 __DATA__
 version:code:name:url
-3:ABA001:Národní knihovna:http\://kramerius.nkp.cz/
+3:ABA001:Národní knihovna:https\://kramerius.nkp.cz/
 3:ABA013:Národní technická knihovna:http\://kramerius.stk.cz/
 3:ABC135:Národní filmový archiv v Praze:http\://kramerius.nfa.cz/
 3:ABE304:Institut umění – Divadelní ústav:http\://kramerius.divadlo.cz
