@@ -1,4 +1,5 @@
 0.06
+ - Rewrite nlk from http to https.
 
 0.05 2021-12-22T13:09:29+01:00
  - Fix ABA001 Kramerius (http -> https).

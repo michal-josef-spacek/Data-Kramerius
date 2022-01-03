@@ -207,7 +207,7 @@ version:code:name:url
 4:svkos:Moravskoslezská vědecká knihovna v Ostravě:http\://camea.svkos.cz/
 4:vugtk:Výzkumný ústav geodetický, topografický a kartografický:http\://knihovna-test.vugtk.cz/
 4:vse:Vysoká škola ekonomická v Praze:http\://kramerius.vse.cz/
-4:nlk:Národní lékařská knihovna v Praze:http\://kramerius.medvik.cz/
+4:nlk:Národní lékařská knihovna v Praze:https\://kramerius.medvik.cz/
 4:mendelu:Mendelova univerzita v Brně:http\://kramerius4.mendelu.cz/
 4:kkvhb:Krajská knihovna Vysočiny v Havlíčkově Brodě:http\://kramerius.kkvysociny.cz/
 4:cdk:Česká Digitální knihovna:http\://cdk.lib.cas.cz/
