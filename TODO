@@ -3,7 +3,9 @@ TODO
 2. Validity of Object (kramerius number 3 or 4)
 3. Validity of Object (URL)
 4. Add flag for obsolete service
-5.
+5. Add Wikidata QID to object.
+6. Change list api to with/without header.
+7
 
 Applied
 =======
