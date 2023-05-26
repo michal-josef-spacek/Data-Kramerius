@@ -1,4 +1,4 @@
-0.06
+0.06 2023-05-26T19:30:57+02:00
  - Add active parameter to Kramerius Object.
  - Add tests.
  - Rename example files to better names.
