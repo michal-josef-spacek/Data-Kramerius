@@ -1,4 +1,5 @@
 0.06
+ - Add active parameter to Kramerius Object.
  - Rename example files to better names.
  - Rewrite nlk from http to https.
  - Update copyright years.
