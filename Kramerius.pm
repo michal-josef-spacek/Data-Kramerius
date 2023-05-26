@@ -115,6 +115,8 @@ Returns list of Data::Kramerius::Object instances.
 
 =head1 EXAMPLE
 
+=for comment filename=look_for_mzk_and_print.pl
+
  use strict;
  use warnings;
 

@@ -117,6 +117,8 @@ Returns number.
 
 =head1 EXAMPLE
 
+=for comment filename=create_object_and_print.pl
+
  use strict;
  use warnings;
 
